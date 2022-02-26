@@ -1,0 +1,26 @@
+.contenedor{
+     width: 200px;
+     border-radius:15px;
+}
+
+.hijo{
+     width: 100%;
+}
+
+.p1{
+     background-color:#1a1a40 ;
+     height:100px;
+}
+.p2{
+     background-color:#270082 ;
+     height:80px ;
+
+}
+.p3{
+     background-color:#7a0bc0 ;
+     height:60px ;
+}
+.p4{
+     background-color:#fa58b6 ;
+     height:40px;
+}
